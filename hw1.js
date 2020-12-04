@@ -37,7 +37,7 @@ function sum () {
     for (let i in HW){
        sumpu+= HW[i].ppu;
     };
-    console.log('pup sum is  '+ sumpu);
+    console.log('----------------------pup sum is  '+ sumpu);
     return sumpu;
 };
 
@@ -45,7 +45,7 @@ function sum () {
 
  function avapup(){ 
      let average = sum()/3;
-      console.log('Ppu average is  '+average)
+      console.log('----------------------Ppu average is  '+average)
       return average;
       };
   //----------------------ALL IDS-----------------
